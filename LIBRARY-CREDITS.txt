@@ -1,0 +1,16 @@
+Third-party libraries bundled for offline classroom use
+
+Three.js 0.179.1
+https://threejs.org/
+https://github.com/mrdoob/three.js/tree/r179
+MIT license. Full license: THREE-LICENSE.txt.
+Includes the matching three.core module and OrbitControls addon.
+
+Plotly.js 4.1.1
+https://plotly.com/javascript/
+https://cdn.plot.ly/plotly-4.1.1.min.js
+Copyright 2012-2026 Plotly, Inc. MIT license.
+The unmodified distribution includes its copyright, license notice,
+and bundled dependency license information.
+
+No external requests are needed by this application at runtime.
